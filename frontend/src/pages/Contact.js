@@ -1,7 +1,7 @@
 import React from 'react';
 import Input from '../shared/formElements/Input';
 import '../shared/formElements/FormStyle.css';
-import Button from '../shared/formElements/Button';
+import Button from '../shared/buttons/Button';
 
 const Contact = (props) => {
   return (
